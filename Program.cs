@@ -6,7 +6,11 @@ namespace myApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            // create an object from class Product
+            var prod1 = new Product {
+                ID = 12,
+                Name = "iPhone10",
+                Price = 1240.99 };
         }
     }
 
@@ -14,7 +18,7 @@ namespace myApp
     class Product {
         public int ID {get; set;}
         public string Name {get; set;}
-        public double price {get; set;}
+        public double Price {get; set;}
     }
 }
 
