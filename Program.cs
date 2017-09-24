@@ -1,4 +1,5 @@
 ﻿using System;
+using Newtonsoft.Json;
 
 namespace myApp
 {
@@ -11,6 +12,12 @@ namespace myApp
                 ID = 12,
                 Name = "iPhone10",
                 Price = 1240.99 };
+
+            // serialize this JSON obj to string
+            var jsonString = JsonConvert.SerializeObject(prod1);
+
+            // print that serialized obj
+            System.Console.WriteLine(jsonString);
         }
     }
 
