@@ -1,0 +1,10 @@
+/Users/amr/workspace/myApp/bin/Debug/netcoreapp2.0/myApp.deps.json
+/Users/amr/workspace/myApp/bin/Debug/netcoreapp2.0/myApp.runtimeconfig.json
+/Users/amr/workspace/myApp/bin/Debug/netcoreapp2.0/myApp.runtimeconfig.dev.json
+/Users/amr/workspace/myApp/bin/Debug/netcoreapp2.0/myApp.dll
+/Users/amr/workspace/myApp/bin/Debug/netcoreapp2.0/myApp.pdb
+/Users/amr/workspace/myApp/obj/Debug/netcoreapp2.0/myApp.csproj.CoreCompileInputs.cache
+/Users/amr/workspace/myApp/obj/Debug/netcoreapp2.0/myApp.AssemblyInfoInputs.cache
+/Users/amr/workspace/myApp/obj/Debug/netcoreapp2.0/myApp.AssemblyInfo.cs
+/Users/amr/workspace/myApp/obj/Debug/netcoreapp2.0/myApp.dll
+/Users/amr/workspace/myApp/obj/Debug/netcoreapp2.0/myApp.pdb
