@@ -18,6 +18,15 @@ namespace myApp
 
             // print that serialized obj
             System.Console.WriteLine(jsonString);
+
+            
+            // deserialize the string to obj
+            var prod2 = JsonConvert.DeserializeObject<Product>(jsonString);
+
+            // print the JSON obj
+            System.Console.WriteLine($"Prod. Name: {prod2.Name}");
+            System.Console.WriteLine($"Prod. ID: {prod2.ID}");
+            System.Console.WriteLine($"Prod. Price: {prod2.Price}");
         }
     }
 
